@@ -1,12 +1,50 @@
 {
-    "name": "petanikode",
-    "url": "https://www.petanikdoe.com",
-    "rank": 1,
-    "socialmedia": {
-        "facebook": "petanikode",
-        "twitter": "petanikode",
-        "instagram": "petanikode",
-        "youtube": "petanikode",
-        "github": "petanikode"
-    }
+  "biodata": {
+    "name": "Aminnur Ikhsan",
+    "age": 26,
+    "address": "Jl. Cijawura Cirang II/2 No.6, Sekejati, Kec. Buahbatu, Kota Bandung, Jawa Barat 40286",
+    "hobbies": ["Camping", "Planting", "Gaming"],
+    "is_married": false,
+    "list_school" : [
+      {
+        "name" : "SD Negeri 01 Cangakan",
+        "year_in" : "1999",
+        "year_in" : "2006",
+        "major" : null
+      },
+      {
+        "name" : "SMP Negeri 01 Karanganyar",
+        "year_in" : "2006",
+        "year_in" : "2009",
+        "major" : null
+      },
+      {
+        "name" : "SMA Negeri 01 Karanganyar",
+        "year_in" : "2009",
+        "year_in" : "2012",
+        "major" : "ips"
+      },
+      {
+        "name" : "Universitas Telkom",
+        "year_in" : "2012",
+        "year_in" : "2019",
+        "major" : "sistem informasi"
+      }
+    ],
+    "skills" : [
+      {
+        "skill_name" : "php",
+        "level" : "advanced"
+      },
+      {
+        "skill_name" : "Laravel",
+        "level" : "advanced"
+      },
+      {
+        "skill_name" : "javascript",
+        "level" : "beginner"
+      }
+    ],
+    "interest_in_coding" : true
+  }
 }
